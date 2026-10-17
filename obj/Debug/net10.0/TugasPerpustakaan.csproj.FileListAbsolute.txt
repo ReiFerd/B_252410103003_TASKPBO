@@ -1,0 +1,14 @@
+E:\KULIAH\SEMESTER_3\PBO\TugasPerpustakaan\bin\Debug\net10.0\TugasPerpustakaan.exe
+E:\KULIAH\SEMESTER_3\PBO\TugasPerpustakaan\bin\Debug\net10.0\TugasPerpustakaan.deps.json
+E:\KULIAH\SEMESTER_3\PBO\TugasPerpustakaan\bin\Debug\net10.0\TugasPerpustakaan.runtimeconfig.json
+E:\KULIAH\SEMESTER_3\PBO\TugasPerpustakaan\bin\Debug\net10.0\TugasPerpustakaan.dll
+E:\KULIAH\SEMESTER_3\PBO\TugasPerpustakaan\bin\Debug\net10.0\TugasPerpustakaan.pdb
+E:\KULIAH\SEMESTER_3\PBO\TugasPerpustakaan\obj\Debug\net10.0\TugasPerpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+E:\KULIAH\SEMESTER_3\PBO\TugasPerpustakaan\obj\Debug\net10.0\TugasPerpustakaan.AssemblyInfoInputs.cache
+E:\KULIAH\SEMESTER_3\PBO\TugasPerpustakaan\obj\Debug\net10.0\TugasPerpustakaan.AssemblyInfo.cs
+E:\KULIAH\SEMESTER_3\PBO\TugasPerpustakaan\obj\Debug\net10.0\TugasPerpustakaan.csproj.CoreCompileInputs.cache
+E:\KULIAH\SEMESTER_3\PBO\TugasPerpustakaan\obj\Debug\net10.0\TugasPerpustakaan.dll
+E:\KULIAH\SEMESTER_3\PBO\TugasPerpustakaan\obj\Debug\net10.0\refint\TugasPerpustakaan.dll
+E:\KULIAH\SEMESTER_3\PBO\TugasPerpustakaan\obj\Debug\net10.0\TugasPerpustakaan.pdb
+E:\KULIAH\SEMESTER_3\PBO\TugasPerpustakaan\obj\Debug\net10.0\TugasPerpustakaan.genruntimeconfig.cache
+E:\KULIAH\SEMESTER_3\PBO\TugasPerpustakaan\obj\Debug\net10.0\ref\TugasPerpustakaan.dll
